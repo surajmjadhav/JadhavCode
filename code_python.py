@@ -1,1 +1,1 @@
-print Whats up aur btaoo V3")
+print ("Whats up aur btaoo V3")
